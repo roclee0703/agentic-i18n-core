@@ -2,6 +2,7 @@
 
 > High-precision internationalization validation and calibration engine for AI translation agents, LLMs, and multilingual CMS platforms.
 
+[![CI](https://github.com/roclee0703/agentic-i18n-core/actions/workflows/ci.yml/badge.svg)](https://github.com/roclee0703/agentic-i18n-core/actions/workflows/ci.yml)
 [![Node.js CI](https://img.shields.io/badge/Node.js-%3E%3D18.0.0-green.svg)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![i18n Precision](https://img.shields.io/badge/i18n-Evaluation%20Engine-teal.svg)](https://github.com/roclee0703/agentic-i18n-core)

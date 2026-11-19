@@ -1,0 +1,36 @@
+{
+  "name": "agentic-i18n-core",
+  "version": "0.1.0",
+  "description": "High-precision internationalization validation and calibration engine for AI translation agents and multilingual CMS architectures.",
+  "main": "src/index.mjs",
+  "type": "module",
+  "bin": {
+    "agentic-i18n": "./bin/agentic-i18n.mjs"
+  },
+  "scripts": {
+    "test": "node --test tests/**/*.test.mjs"
+  },
+  "keywords": [
+    "i18n",
+    "localization",
+    "translation-eval",
+    "ai-agent",
+    "codex",
+    "cms",
+    "glossary-audit",
+    "placeholder-verification"
+  ],
+  "author": "roclee0703 <roclee0703@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roclee0703/agentic-i18n-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roclee0703/agentic-i18n-core/issues"
+  },
+  "homepage": "https://github.com/roclee0703/agentic-i18n-core#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
